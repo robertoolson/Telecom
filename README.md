@@ -57,3 +57,23 @@ Este proyecto tiene como objetivo predecir la probabilidad de que un cliente hag
     - shap
     - matplotlib
     - bayesian-optimization
+
+## Instalacion
+
+1. Clonar el repositorio:
+```
+git clone
+```
+
+2. Instalar las dependencias:
+```
+pip install -r requirements.txt
+```
+
+3. Ejecutar el notebook:
+```
+jupyter notebook
+```
+
+## Autor
+Rooberto Olson
